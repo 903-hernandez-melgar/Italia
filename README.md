@@ -7,7 +7,7 @@ de viajes   Nacionales e internacionales y Tour
 ***
  
 ##OBJETIVO
-Se desarrollada
+Se desarrollada.
  
 ##FUNCIONALIDADES
 --[]CRUD USUARIOS
